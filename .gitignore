@@ -1,0 +1,21 @@
+# Папка с временными файлами
+temp_output/
+
+# Логи
+*.log
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+.env/
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Другие временные файлы
+*.tmp
+*.temp
